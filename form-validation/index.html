@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Intern'spedia Monthly Project Boot Camp - Web Development - Master project</title>
+</head>
+
+<body>
+
+    <body>
+        <div id="page-title">
+            <h3>JAVASCRIPT VALIDATION FORM</h3>
+            <h4>Intern's Pedia Internship - Master project</h4>
+            <h5>Rahul Dutta</h5>
+        </div>
+        <div id="form">
+            <form name="myForm" onsubmit="return validateForm()">
+                <!-- Required and must be of length 5 to 12. -->
+                <label for="user-id">User ID</label>
+                <span class="req">*</span>
+                <span id="user-id-alert"></span>
+                <input type="text" id="user-id" name="user-id" placeholder="User ID.">
+
+                <!-- Required and must be of length 7 to 12. -->
+                <label for="password">Password</label>
+                <span class="req">*</span>
+                <span id="password-alert"></span>
+                <input type="text" id="password" name="password" placeholder="Password">
+
+                <!-- Required and alphabates only. -->
+                <label for="name">Name</label>
+                <span class="req">*</span>
+                <span id="name-alert"></span>
+                <input type="text" id="name" name="name" placeholder="Name">
+
+                <!-- Optional  -->
+                <label for="address">Address</label>
+                <span class="optional">(Optional)</span>
+                <input type="text" id="address" name="address" placeholder="Address">
+
+                <!-- Required. Must select a country. -->
+                <label for="country">Country</label>
+                <span class="req">*</span>
+                <span id="country-alert"></span>
+                <select id="country" name="country">
+                    <option value="Select">Please Select a Country</option>
+                    <option value="canada">Canada</option>
+                    <option value="usa">USA</option>
+                    <option value="australia">Australia</option>
+                    <option value="India">India</option>
+                    <option value="UK">UK</option>
+                </select>
+
+                <!-- Required. Must be numeric only. -->
+                <label for="zip-code">ZIP Code</label>
+                <span class="req">*</span>
+                <span id="zip-alert"></span>
+                <input type="text" id="zip-code" name="zip-code" placeholder="Zip Code">
+
+                <!-- Required. Must be a valid email. -->
+                <label for="email">Email</label>
+                <span class="req">*</span>
+                <span id="email-alert"></span>
+                <input type="email" id="email" name="email" placeholder="Email">
+
+                <!-- Required. -->
+                <label for="sex">Sex</label>
+                <span class="req">*</span>
+                <input type="radio" id="male" name="male" value="Male">
+                <label for="male">Male</label>
+                <input type="radio" id="female" name="female" value="Female">
+                <label for="female">Female </label>
+                <span id="sex-alert"></span><br><br>
+
+                <!-- Required. -->
+                <label for="language">Language</label>
+                <span class="req">*</span>
+                <input type="checkbox" id="english" name="english" value="English">
+                <label for="english">English</label>
+                <input type="checkbox" id="non-english" name="non-english" value="Non English">
+                <label for="non-english">Non English </label><span id="language-alert"></span><br><br>
+
+                <!-- Optional. -->
+                <label for="About">About</label>
+                <span class="optional">(Optional)</span><br>
+                <textarea name="about" id="about" cols="30" rows="10"></textarea>
+
+                <input type="submit" value="Submit">
+            </form>
+        </div>
+        <script src="index.js"></script>
+    </body>
+
+</html>

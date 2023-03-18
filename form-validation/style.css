@@ -1,0 +1,62 @@
+:root {
+  --color1: #594545;
+  --color2: #815b5b;
+  --color3: #9e7676;
+  --color4: #fff8ea;
+}
+
+input[type="text"],
+input[type="email"],
+select,
+textarea {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid var(--color1);
+  background-color: var(--color4);
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type="submit"] {
+  width: 100%;
+  background-color: var(--color3);
+  color: var(--color4);
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: var(--color4);
+  color: var(--color1);
+}
+
+#page-title,
+#form {
+  border-radius: 5px;
+  background-color: var(--color1);
+  padding: 20px;
+  color: var(--color4);
+  max-width: 500px;
+  margin: auto;
+  margin-bottom: 10px;
+}
+
+#page-title {
+  text-align: center;
+}
+
+#user-id-alert,
+#password-alert,
+#name-alert,
+#country-alert,
+#zip-alert,
+#email-alert,
+#language-alert,
+#sex-alert {
+  color: red;
+}
