@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Color Chnager</title>
+    <style>
+        body {
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+        }
+
+        #button {
+            padding: 20px;
+            background-color: rgb(255, 230, 0);
+            border-radius: 25px;
+            border: none;
+            font-size: larger;
+            font-weight: bold;
+            box-shadow: 2px 2px 2px 2px rgb(138, 138, 138);
+        }
+
+        #button:hover {
+            cursor: pointer;
+            background-color: rgb(255, 235, 59);
+        }
+
+            
+         
+    </style>
+</head>
+
+<body>
+
+    <button id="button">Change Color</button>
+
+    <script>
+        const btn = document.getElementById("button");
+        const randomColor = () => {
+            let val = "012345678ABCDEFG";
+            let cons = "#";
+            for (let i = 0; i < 6; i++) {
+                cons = cons + val[Math.floor(Math.random() * 16)];
+            }
+            return cons;
+        };
+
+        function changeRandomColor() {
+            document.body.style.backgroundColor = randomColor();
+        }
+
+        btn.addEventListener("click", changeRandomColor);
+
+    </script>
+
+</body>
+
+</html>
