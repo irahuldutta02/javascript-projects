@@ -1,5 +1,5 @@
 # form-validation
 
-- [Live Demo](https://irahuldutta02.github.io/javascript-projects-01/form-validation/index.html)
+- [Live Demo](https://irahuldutta02.github.io/javascript-projects-01/color-changer-dom-project/index.html)
 
 ![form validation](https://user-images.githubusercontent.com/78687135/209335834-67fd7d8a-2d66-481c-b3e0-d943b19588ec.gif)
