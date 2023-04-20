@@ -1,15 +1,19 @@
 # javascript-projects
 
-- https://irahuldutta02.github.io/javascript-projects-01
+### Color Changer
+  - using `html` `css` `JavaScript`
+  - [Code](https://github.com/irahuldutta02/javascript-projects-01/tree/main/color-changer-dom-project)
+  - [Live](https://irahuldutta02.github.io/javascript-projects-01/color-changer-dom-project)
+  - [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/irahuldutta02/javascript-projects-01/tree/main/color-changer-dom-project)
 
-### 1. Color Changer
- - [Source Code](./color-changer-dom-project/)
- - [Live Demo](https://irahuldutta02.github.io/javascript-projects-01/color-changer-dom-project/index.html)
+### Form Validation
+  - using `html` `css` `JavaScript`
+  - [Code](https://github.com/irahuldutta02/javascript-projects-01/tree/main/form-validation)
+  - [Live](https://irahuldutta02.github.io/javascript-projects-01/form-validation)
+  - [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/irahuldutta02/javascript-projects-01/tree/main/form-validation)
 
-### 2. Form Validation
- - [Source Code](./form-validation/)
- - [Live Demo](https://irahuldutta02.github.io/javascript-projects-01/form-validation/index.html)
-
-### 3. Time and Stop Watch
- - [Source Code](./timer-and-stopwatch/)
- - [Live Demo](https://irahuldutta02.github.io/javascript-projects-01/timer-and-stopwatch/index.html)
+### Time and Stop Watch
+  - using `html` `css` `JavaScript`
+  - [Code](https://github.com/irahuldutta02/javascript-projects-01/tree/main/timer-and-stopwatch)
+  - [Live](https://irahuldutta02.github.io/javascript-projects-01/timer-and-stopwatch)
+  - [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/irahuldutta02/javascript-projects-01/tree/main/timer-and-stopwatch)
