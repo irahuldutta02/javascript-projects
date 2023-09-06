@@ -2,8 +2,6 @@
 
 - ## My Profile Links : [rahuldutta.bio.link](https://rahuldutta.bio.link)
 
----
-
 ### Color Changer
   - using `html` `css` `JavaScript`
   - [Code](https://github.com/irahuldutta02/javascript-projects-01/tree/main/color-changer-dom-project)
