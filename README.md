@@ -1,6 +1,6 @@
 # javascript-projects-01
 
-- ## My Profile Links : [rahuldutta.bio.link](https://rahuldutta.bio.link)
+### My Profile Links : [rahuldutta.bio.link](https://rahuldutta.bio.link)
 
 ### Color Changer
   - using `html` `css` `JavaScript`
