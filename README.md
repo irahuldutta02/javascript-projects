@@ -19,3 +19,9 @@
   - [Code](https://github.com/irahuldutta02/javascript-projects-01/tree/main/timer-and-stopwatch)
   - [Live](https://irahuldutta02.github.io/javascript-projects-01/timer-and-stopwatch)
   - [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/irahuldutta02/javascript-projects-01/tree/main/timer-and-stopwatch)
+
+  ### Space Shooter Game
+  - using `html` `css` `JavaScript`
+  - [Code](https://github.com/irahuldutta02/javascript-projects-01/tree/main/space-shooter-game)
+  - [Live](https://irahuldutta02.github.io/javascript-projects-01/space-shooter-game)
+  - [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/irahuldutta02/javascript-projects-01/tree/main/space-shooter-game)
