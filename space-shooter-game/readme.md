@@ -1,3 +1,3 @@
 ### Space Shooter Game | [Code](https://github.com/irahuldutta02/javascript-projects-01/tree/main/space-shooter-game) | [Live](https://irahuldutta02.github.io/javascript-projects-01/space-shooter-game) | [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/irahuldutta02/javascript-projects-01/tree/main/space-shooter-game)
 - ** Made using html, css, js
-- ** Not responsive and not playable in mobile or without keyboard - primary goal is to practice js
+- ** Not responsive and not playable in smaller screen or without keyboard - primary goal is to practice js

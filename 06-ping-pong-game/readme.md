@@ -1,3 +1,3 @@
 ### 06-ping-pong-game** | [Code](https://github.com/irahuldutta02/javascript-projects-01/tree/main/06-ping-pong-game) | [Live](https://irahuldutta02.github.io/javascript-projects-01/06-ping-pong-game) | [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/irahuldutta02/javascript-projects-01/tree/main/06-ping-pong-game)
 - ** Made using html, css, js
-- ** Not responsive and not playable in mobile or without keyboard - primary goal is to practice js
+- ** Not responsive and not playable in smaller screen or without keyboard - primary goal is to practice js
