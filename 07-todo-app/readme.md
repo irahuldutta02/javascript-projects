@@ -1,0 +1,3 @@
+### 07-todo-app** | [Code](https://github.com/irahuldutta02/javascript-projects-01/tree/main/07-todo-app) | [Live](https://irahuldutta02.github.io/javascript-projects-01/07-todo-app) | [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/irahuldutta02/javascript-projects-01/tree/main/07-todo-app)
+- ** Made using html, css, bootstrap and js
+- ** Not responsive and not not for smaller screen - primary goal is to practice js
