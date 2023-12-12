@@ -8,5 +8,11 @@
 ### Time and Stop Watch | [Code](https://github.com/irahuldutta02/javascript-projects-01/tree/main/timer-and-stopwatch) | [Live](https://irahuldutta02.github.io/javascript-projects-01/timer-and-stopwatch) | [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/irahuldutta02/javascript-projects-01/tree/main/timer-and-stopwatch)
 
 ### Space Shooter Game | [Code](https://github.com/irahuldutta02/javascript-projects-01/tree/main/space-shooter-game) | [Live](https://irahuldutta02.github.io/javascript-projects-01/space-shooter-game) | [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/irahuldutta02/javascript-projects-01/tree/main/space-shooter-game)
+- ** Made using html, css, js
+- ** Not responsive and not playable in mobile or without keyboard - primary goal is to practice js
 
 ### Snake Game | [Code](https://github.com/irahuldutta02/javascript-projects-01/tree/main/snake-game) | [Live](https://irahuldutta02.github.io/javascript-projects-01/snake-game) | [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/irahuldutta02/javascript-projects-01/tree/main/snake-game)
+
+### 06-ping-pong-game** | [Code](https://github.com/irahuldutta02/javascript-projects-01/tree/main/06-ping-pong-game) | [Live](https://irahuldutta02.github.io/javascript-projects-01/06-ping-pong-game) | [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/irahuldutta02/javascript-projects-01/tree/main/06-ping-pong-game)
+- ** Made using html, css, js
+- ** Not responsive and not playable in mobile or without keyboard - primary goal is to practice js
